@@ -1,11 +1,9 @@
-paper = 77;
-day = 16;
+name = input("What is your name? ")
+
+print("Hello " + name + " how are you feeling today? ")
 
 hat_is_on = True; 
 
 my_fav_movies = ["Training Day" , "Endgame" , "Lego Movie"];
 
-print(paper);
-print(day);
-print(hat_is_on);
-print(my_fav_movies[1]);
+
